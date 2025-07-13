@@ -15,7 +15,7 @@ public class F1Servlet extends HttpServlet {
         out.println("<ul>");
         out.println("<li>2024 Champion: Max Verstappen</li>");
         out.println("<li>Top Team: Red Bull Racing</li>");
-        out.println("<li>Upcoming Race: Italian Grand Prix - Monza</li>");
+        out.println("<li>A site by : Anirudh - 2021WA86611</li>");
         out.println("</ul>");
         out.println("</body></html>");
     }
